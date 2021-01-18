@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MiProyecto</string>
+    <string name="titulo_app">BIENVENIDO</string>
+    <string name="button_uno">ENTRAR</string>
+</resources>
